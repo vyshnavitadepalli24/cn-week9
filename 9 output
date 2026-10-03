@@ -1,0 +1,16 @@
+OUTPUT:
+enter bucket size
+: 5 enter output
+rate :3
+enter number of packets coming at
+second 1 :1 enter 1 to contiue or 0 to quit
+1
+enter number of packets coming at second 2 :2
+OUTPUT:
+enter bucket size
+: 5 enter output
+rate :3
+enter number of packets coming at
+second 1 :1 enter 1 to contiue or 0 to quit
+1
+enter number of packets coming at second 2 :2
